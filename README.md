@@ -22,7 +22,7 @@ This project is a simulation of digital product management processes, focusing o
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/maiyarehal/Digital_Product_Management_Simulation
    cd <repository-directory>
 
 2. Make sure you have Python 3 installed on your machine. You can download it from python.org.
